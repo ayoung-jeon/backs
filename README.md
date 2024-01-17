@@ -5,13 +5,12 @@
 
 ## 1조
 | 역할 | 이름 | 개인 Git 주소 |
-|    :---:     | :---           | :---          |
-|![image](https://github.com/engelhyunji/final/assets/147478174/71bf1b7c-e1c0-4208-b6d2-548f0083dd37)| 전아영     | 
-https://github.com/ayoung-jeon |
-| ![image](https://github.com/engelhyunji/final/assets/147478174/71bf1b7c-e1c0-4208-b6d2-548f0083dd37)| 류시영    | https://github.com/seeyoungryu |
-| ![image](https://github.com/engelhyunji/final/assets/147478174/0cf31df6-9185-4ec1-bc65-78e2129b29e4)| 주철민    | 
-https://github.com/cheolminJOO |
-| ![image](https://github.com/engelhyunji/final/assets/147478174/0cf31df6-9185-4ec1-bc65-78e2129b29e4)| 강현지    | https://github.com/engelhyunji |
+|:---:|:---|:---|
+| ![image](https://github.com/engelhyunji/final/assets/147478174/71bf1b7c-e1c0-4208-b6d2-548f0083dd37) | 전아영 | [https://github.com/ayoung-jeon](https://github.com/ayoung-jeon) |
+| ![image](https://github.com/engelhyunji/final/assets/147478174/71bf1b7c-e1c0-4208-b6d2-548f0083dd37) | 박나원 | [https://github.com/Hewllpark](https://github.com/Hewllpark) |
+| ![image](https://github.com/engelhyunji/final/assets/147478174/0cf31df6-9185-4ec1-bc65-78e2129b29e4) | 주철민 | [https://github.com/cheolminJOO](https://github.com/cheolminJOO) |
+| ![image](https://github.com/engelhyunji/final/assets/147478174/0cf31df6-9185-4ec1-bc65-78e2129b29e4) | 강현지 | [https://github.com/engelhyunji](https://github.com/engelhyunji) |
+
 
 # 📽️ 시연영상
 https://www.youtube.com/watch?v=kZRqJ4Ptk-Q
